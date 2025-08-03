@@ -14,14 +14,14 @@ I'm passionate about technology and currently studying Web Development and Cyber
 - Programming logic
 - Cybersecurity (SENAI/SP – *Hacker do Bem*)
 - Networking, Linux, Cryptography
-
+- 📚 **Computer Science** (Início: Ago/2025)
 ---
 
 ### 📚 Certifications and Challenges:
 - 🔗 [Open Source Contribution Challenge](https://github.com/YancaRivska/dio-lab-open-source)
 - 📜 SENAI/SP – Cybersecurity Training (144h | Grade: 100)
 - 📘 Ongoing: Web Fundamentals + Front-end (DIO)
-
+🆕 In Progress: **Bachelor in Computer Science** 
 ---
 
 ### 📊 GitHub Stats:
@@ -30,7 +30,7 @@ I'm passionate about technology and currently studying Web Development and Cyber
 ---
 
 ### 💬 Let’s connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yanca-ribeiro-872969367)
+- 💼 [LinkedIn]linkedin.com/in/yanca-rivska-872969367
 - 📫 Email: yanca.rivska@outlook.com
 
 ---
